@@ -1,0 +1,6 @@
+[116.Gab1.irt.Egf, 440.RasGrp3.irt.Egf, 207.Src.irt.Egf, 529.Hras.irt.Egf, 172.Pi3k.irt.Egf, 001.EgfR.irt.Egf, 012.Gnai1.irt.Egf, 188.Shp2.irt.Egf]
+[116.Gab1.irt.Egf, 197.Sos1.irt.Egf, 117.Grb2.irt.Egf, 529.Hras.irt.Egf#1, 172.Pi3k.irt.Egf, 001.EgfR.irt.Egf, 012.Gnai1.irt.Egf, 188.Shp2.irt.Egf]
+[440.RasGrp3.irt.Egf, 207.Src.irt.Egf, 529.Hras.irt.Egf#2, 172.Pi3k.irt.Egf, 001.EgfR.irt.Egf, 075.Gab2.irt.Egf, 188.Shp2.irt.Egf]
+[197.Sos1.irt.Egf, 117.Grb2.irt.Egf, 172.Pi3k.irt.Egf, 001.EgfR.irt.Egf, 075.Gab2.irt.Egf, 529.Hras.irt.Egf#3, 188.Shp2.irt.Egf]
+[116.Gab1.irt.Egf#1, 440.RasGrp3.irt.Egf, 013.Gnai3.irt.Egf, 207.Src.irt.Egf, 529.Hras.irt.Egf, 172.Pi3k.irt.Egf, 001.EgfR.irt.Egf, 188.Shp2.irt.Egf]
+[116.Gab1.irt.Egf#1, 197.Sos1.irt.Egf, 013.Gnai3.irt.Egf, 117.Grb2.irt.Egf, 529.Hras.irt.Egf#1, 172.Pi3k.irt.Egf, 001.EgfR.irt.Egf, 188.Shp2.irt.Egf]

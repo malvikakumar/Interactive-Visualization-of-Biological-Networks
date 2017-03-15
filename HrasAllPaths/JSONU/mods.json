@@ -1,0 +1,24 @@
+ {
+ 
+"GDP":{"stype" : "basicOp",
+	 "name" : "GDP",
+	 "modname" : "MODIFICATIONOPS",
+	 "metadata" : { "abbrev" : "GDP", "db" : "CHEBI", "id" : "17552", "term" : "Guanosine 5'-diphosphate", "sort" : "SMBIND" }
+},
+"GTP":{"stype" : "basicOp",
+	 "name" : "GTP",
+	 "modname" : "MODIFICATIONOPS",
+	 "metadata" : { "abbrev" : "GTP", "db" : "CHEBI", "id" : "15996", "term" : "Guanosine 5'-triphosphate", "sort" : "SMBIND" }
+},
+"Yphos":{"stype" : "basicOp",
+	 "name" : "Yphos",
+	 "modname" : "MODIFICATIONOPS",
+	 "metadata" : { "abbrev" : "Yp", "db" : "MOD", "id" : "00048", "term" : "O4'-phosphorylated L-tyrosine", "sort" : "AAMOD" }
+},
+"act":{"stype" : "basicOp",
+	 "name" : "act",
+	 "modname" : "MODIFICATIONOPS",
+	 "metadata" : { "abbrev" : "+", "description" : "activated", "sort" : "ACT" }
+},
+ 
+} 

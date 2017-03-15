@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link href="style.css" rel="stylesheet" />
+<meta charset=utf-8 />
+<meta name="viewport" content="user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, minimal-ui">
+<title>Pathway Logic - Cytoscape</title>
+<style>
+button {
+   font-size: 15px;
+   background-color: #FC4C4C;
+   color: #fff;
+   border: 0;
+   cursor: pointer;
+   border-radius: 0.30em;
+   font-family: helvetica neue, helvetica, arial, sans-serif;
+   outline: 0;
+   line-height: 13px;
+   -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+ }
+ button:hover {
+    background-color: #Fd7e7e; /* Green */
+    color: white;
+}
+p{
+	line-height: 10px;
+	font-family: helvetica neue, helvetica, arial, sans-serif;
+}
+</style>
+<link href="http://cdnjs.cloudflare.com/ajax/libs/qtip2/2.2.0/jquery.qtip.min.css" rel="stylesheet" />
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+<script src="http://cytoscape.github.io/cytoscape.js/api/cytoscape.js-latest/cytoscape.min.js"></script>
+<script src="http://cdnjs.cloudflare.com/ajax/libs/qtip2/2.2.0/jquery.qtip.min.js"></script>
+<script src="https://cdn.rawgit.com/cytoscape/cytoscape.js-qtip/2.2.5/cytoscape-qtip.js"></script>
+<script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+<script src="https://cdn.rawgit.com/cpettitt/dagre/v0.7.4/dist/dagre.min.js"></script>
+<script src="https://cdn.rawgit.com/cytoscape/cytoscape.js-dagre/1.1.2/cytoscape-dagre.js"></script>
+<script src="main.js"></script>
+</head>
+<body>
+<h1><center>Pathway Logic</h1>
+<!-- <select onclick="pathwayLogic(value);">
+  <option value="AdriamycinDish">AdriamycinDish</option>
+  <option value="AnisoDish">AnisoDish</option>
+ </select> -->
+<div id="cy"></div>
+
+</body>
+</html>

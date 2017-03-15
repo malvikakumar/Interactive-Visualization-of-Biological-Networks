@@ -1,0 +1,95 @@
+ {
+ 
+"Egf":{"stype" : "basicOp",
+	 "name" : "Egf",
+	 "modname" : "PROTEINOPS",
+	 "metadata" : { "category" : "Ligand", "partof" : "ProEgf", "synonyms" : [ "Epidermal growth factor", "Urogastrone" ], "sort" : "Peptide" }
+},
+"EgfR":{"stype" : "basicOp",
+	 "name" : "EgfR",
+	 "modname" : "PROTEINOPS",
+	 "metadata" : { "category" : "Receptor", "spnumber" : "P00533", "hugosym" : "EGFR", "synonyms" : [ "Epidermal growth factor receptor", "ERBB1", "Receptor tyrosine-protein kinase ErbB-1", "EGFR_HUMAN" ], "sort" : "BProtein" }
+},
+"Gab1":{"stype" : "basicOp",
+	 "name" : "Gab1",
+	 "modname" : "PROTEINOPS",
+	 "metadata" : { "spnumber" : "Q13480", "hugosym" : "GAB1", "synonyms" : [ "GRB2-associated binding protein 1", "GRB2-associated binder-1", "GABI_HUMAN" ], "sort" : "GabS" }
+},
+"Gab2":{"stype" : "basicOp",
+	 "name" : "Gab2",
+	 "modname" : "PROTEINOPS",
+	 "metadata" : { "spnumber" : "Q9UQC2", "hugosym" : "GAB2", "synonyms" : [ "GRB2-associated binding protein 2", "GRB2-associated binder-2", "pp100", "KIAA0571", "GABJ_HUMAN" ], "sort" : "GabS" }
+},
+"Gnai1":{"stype" : "basicOp",
+	 "name" : "Gnai1",
+	 "modname" : "PROTEINOPS",
+	 "metadata" : { "spnumber" : "P63096", "hugosym" : "GNAI1", "synonyms" : [ "Guanine nucleotide-binding protein G(i) alpha-1 subunit", "Adenylate cyclase-inhibiting G alpha protein", "GNAI1_HUMAN" ], "sort" : "Gnai13S" }
+},
+"Gnai3":{"stype" : "basicOp",
+	 "name" : "Gnai3",
+	 "modname" : "PROTEINOPS",
+	 "metadata" : { "spnumber" : "P08754", "hugosym" : "GNAI3", "synonyms" : [ "Guanine nucleotide-binding protein G(k) alpha subunit", "G(i)-alpha-3", "GNAI3_HUMAN" ], "sort" : "Gnai13S" }
+},
+"Grb2":{"stype" : "basicOp",
+	 "name" : "Grb2",
+	 "modname" : "PROTEINOPS",
+	 "metadata" : { "spnumber" : "P62993", "hugosym" : "GRB2", "synonyms" : [ "Growth factor receptor-bound protein 2", "GRB2 adapter protein", "SH2/SH3 adapter GRB2", "Abundant Src homology protein", "Ash protein", "Ash", "GRB2_HUMAN" ], "sort" : "BProtein" }
+},
+"Hras":{"stype" : "basicOp",
+	 "name" : "Hras",
+	 "modname" : "PROTEINOPS",
+	 "metadata" : { "spnumber" : "P01112", "hugosym" : "HRAS", "synonyms" : [ "GTPase HRas", "Transforming protein p21", "v-Ha-ras Harvey rat sarcoma viral oncogene homolog", "Harvey murine sarcoma virus oncogene", "H-Ras-1", "c-H-ras", "HRAS1", "RASH1", "RASH_HUMAN" ], "sort" : "HrasSort" }
+},
+"Pi3k":{"stype" : "basicOp",
+	 "name" : "Pi3k",
+	 "modname" : "PROTEINOPS",
+	 "metadata" : { "subunits" : [ "Pik3cs", "Pik3rs" ], "comment" : [ "PI3 Kinase is a heterodimer of:", "a p110 catalytic subunit: Pik3ca, Pik3cb, Pik3cd or Pik3cg", "a p85 regulatory subunit: Pik3r1, Pik3r2, or Pik3r3 " ], "sort" : "Composite" }
+},
+"Pik3rs":{"stype" : "basicOp",
+	 "name" : "Pik3rs",
+	 "modname" : "PROTEINOPS",
+	 "metadata" : { "category" : "Family", "members" : [ "Pik3r1", "Pik3r2", "Pik3r3" ], "sort" : "Pik3rS" }
+},
+"Pik3r1":{"stype" : "basicOp",
+	 "name" : "Pik3r1",
+	 "modname" : "PROTEINOPS",
+	 "metadata" : { "subunitof" : "Pi3k", "spnumber" : "P27986", "hugosym" : "PIK3R1", "synonyms" : [ "Phosphatidylinositol 3-kinase regulatory alpha subunit", "PI3-kinase p85-alpha subunit", "PtdIns-3-kinase p85-alpha", "GRB1", "P85A_HUMAN" ], "sort" : "Pik3rS" }
+},
+"Pik3r2":{"stype" : "basicOp",
+	 "name" : "Pik3r2",
+	 "modname" : "PROTEINOPS",
+	 "metadata" : { "subunitof" : "Pi3k", "spnumber" : "O00459", "hugosym" : "PIK3R2", "synonyms" : [ "Phosphatidylinositol 3-kinase regulatory beta subunit", "PI3-kinase p85-beta subunit", "PtdIns-3-kinase p85-beta", "P85B_HUMAN" ], "sort" : "Pik3rS" }
+},
+"Pik3r3":{"stype" : "basicOp",
+	 "name" : "Pik3r3",
+	 "modname" : "PROTEINOPS",
+	 "metadata" : { "subunitof" : "Pi3k", "spnumber" : "Q92569", "hugosym" : "PIK3R3", "synonyms" : [ "Phosphatidylinositol 3-kinase regulatory gamma subunit", "PI3-kinase", "p85-gamma subunit", "PtdIns-3-kinase p85-gamma", "p55PIK", "P55G_HUMAN" ], "sort" : "Pik3rS" }
+},
+"ProEgf":{"stype" : "basicOp",
+	 "name" : "ProEgf",
+	 "modname" : "PROTEINOPS",
+	 "metadata" : { "spnumber" : "P01133", "hugosym" : "EGF", "contains" : "Egf", "synonyms" : [ "Pro-epidermal growth factor", "EGF_HUMAN" ], "sort" : "BProtein" }
+},
+"RasGrp3":{"stype" : "basicOp",
+	 "name" : "RasGrp3",
+	 "modname" : "PROTEINOPS",
+	 "metadata" : { "category" : "Guanine Nucleotide Exchange Factor", "spnumber" : "Q8IV61", "hugosym" : "RASGRP3", "synonyms" : [ "RAS guanyl releasing protein 3 (calcium and DAG-regulated)", "Calcium and DAG-regulated guanine nucleotide exchange factor III", "Guanine nucleotide exchange factor for Rap1", "CALDAG-GEFIII", "KIAA0846", "GRP3", "GRP3_HUMAN" ], "sort" : "RasGrp3Sort" }
+},
+"Shp2":{"stype" : "basicOp",
+	 "name" : "Shp2",
+	 "modname" : "PROTEINOPS",
+	 "metadata" : { "spnumber" : "Q06124", "hugosym" : "PTPN11", "size" : [ "597aa", "68kD" ], "synonyms" : [ "Protein-tyrosine phosphatase non-receptor type 11", "Protein-tyrosine phosphatase 2C", "PTP-2C", "PTP-1D", "SH-PTP3", "SH-PTP2", "Shp2", "SHP-2", "PTP2C", "SHPTP2", "SH2 containing protein tyrosine phosphatase 2", "Tyrosine phosphatase SHP2", "Syp", "SHPTP3", "SHPTP2", "PTNB_HUMAN" ], "sort" : "BProtein" }
+},
+"Sos1":{"stype" : "basicOp",
+	 "name" : "Sos1",
+	 "modname" : "PROTEINOPS",
+	 "metadata" : { "category" : "Guanine Nucleotide Exchange Factor", "spnumber" : "Q07889", "hugosym" : "SOS1", "synonyms" : [ "Son of sevenless protein homolog 1", "SOS-1", "SOS1 guanine nucleotide exchange factor", "Son of sevenless drosophila homolog 1 ", "SOS1_HUMAN" ], "sort" : "Sos1Sort" }
+},
+"Src":{"stype" : "basicOp",
+	 "name" : "Src",
+	 "modname" : "PROTEINOPS",
+	 "metadata" : { "spnumber" : "P12931", "hugosym" : "SRC", "synonyms" : [ "Proto-oncogene tyrosine-protein kinase Src", "Avian sarcoma virus protein", "ASV", "Tyrosine kinase pp60c-src", "Tyrosine protein kinase SRC-1", "Protooncogene SRC", "Rous sarcoma", "v-src sarcoma (Schmidt-Ruppin A-2) viral oncogene homolog", "p60-Src", "c-Src", "SRC1", "SRC_HUMAN" ], "sort" : "BProtein" }
+},
+
+ 
+} 

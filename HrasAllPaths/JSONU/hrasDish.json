@@ -1,0 +1,11 @@
+ 
+ {"stype" : "jnet",
+	 "name" : "allDish",
+	 "type" : "pnet",
+	 "kbname" : "RKB",
+	 "parent" : "RKB",
+	 "rids" : ["001.EgfR.irt.Egf", "075.Gab2.irt.Egf", "012.Gnai1.irt.Egf", "013.Gnai3.irt.Egf", "117.Grb2.irt.Egf", "172.Pi3k.irt.Egf", "188.Shp2.irt.Egf", "116.Gab1.irt.Egf", "116.Gab1.irt.Egf#1", "197.Sos1.irt.Egf", "207.Src.irt.Egf", "529.Hras.irt.Egf#1", "529.Hras.irt.Egf#3", "440.RasGrp3.irt.Egf", "529.Hras.irt.Egf", "529.Hras.irt.Egf#2"],
+	 "init" : ["Egf@XOut", "EgfR@EgfRC", "Gab1@CLc", "Gab2@CLc", "Gnai1@CLi", "Gnai3@CLi", "Grb2@CLc", "Pi3k@CLc", "RasGrp3@CLc", "Shp2@CLc", "Sos1@CLc", "Src@CLi", "Hras-GDP@CLi"],
+	 "op" : "dishnet",
+	 "args" : "allDish"
+} 

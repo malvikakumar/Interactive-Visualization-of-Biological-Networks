@@ -1,0 +1,24 @@
+ {
+ 
+"CLc":{"stype" : "basicOp",
+	 "name" : "CLc",
+	 "modname" : "LOCATIONOPS",
+	 "metadata" : { "celltype" : "Animal", "definition" : "Cytoplasm", "sort" : "LocName" }
+},
+"CLi":{"stype" : "basicOp",
+	 "name" : "CLi",
+	 "modname" : "LOCATIONOPS",
+	 "metadata" : { "celltype" : "Animal", "definition" : [ "Stuck to the inside of the plasma membrane or", "bound to another protein which is in the CLi or", "bound to the inner side of a protein in the CLm" ], "sort" : "LocName" }
+},
+"EgfRC":{"stype" : "basicOp",
+	 "name" : "EgfRC",
+	 "modname" : "LOCATIONOPS",
+	 "metadata" : { "sort" : "CompName" }
+},
+"XOut":{"stype" : "basicOp",
+	 "name" : "XOut",
+	 "modname" : "LOCATIONOPS",
+	 "metadata" : { "celltype" : "any", "definition" : "Outside of and not stuck to any cell", "sort" : "LocName" }
+},
+ 
+} 

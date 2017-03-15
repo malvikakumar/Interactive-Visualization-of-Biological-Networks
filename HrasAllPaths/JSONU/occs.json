@@ -1,0 +1,214 @@
+ { 
+ "Egf:EgfR-Yphos@EgfRC":{"stype" : "cocc",
+	 "name" : "Egf:EgfR-Yphos@EgfRC",
+	 "shortname" : "Egf:EgfR-Yphos",
+	 "components" : { 
+ "Egf@EgfRC":{"stype" : "socc",
+	 "name" : "Egf@EgfRC",
+	 "shortname" : "Egf",
+	 "ename" : "Egf",
+	 "mods" : [ ],
+	 "loc" : "EgfRC"
+},
+
+ "EgfR-Yphos@EgfRC":{"stype" : "socc",
+	 "name" : "EgfR-Yphos@EgfRC",
+	 "shortname" : "EgfR-Yphos",
+	 "ename" : "EgfR",
+	 "mods" : [ "Yphos" ],
+	 "loc" : "EgfRC"
+} },
+	 "loc" : "EgfRC"
+},
+
+ "Egf@XOut":{"stype" : "socc",
+	 "name" : "Egf@XOut",
+	 "shortname" : "Egf",
+	 "ename" : "Egf",
+	 "mods" : [ ],
+	 "loc" : "XOut"
+},
+
+ "EgfR@EgfRC":{"stype" : "socc",
+	 "name" : "EgfR@EgfRC",
+	 "shortname" : "EgfR",
+	 "ename" : "EgfR",
+	 "mods" : [ ],
+	 "loc" : "EgfRC"
+},
+
+ "Gab1-Yphos@EgfRC":{"stype" : "socc",
+	 "name" : "Gab1-Yphos@EgfRC",
+	 "shortname" : "Gab1-Yphos",
+	 "ename" : "Gab1",
+	 "mods" : [ "Yphos" ],
+	 "loc" : "EgfRC"
+},
+
+ "Gab1@CLc":{"stype" : "socc",
+	 "name" : "Gab1@CLc",
+	 "shortname" : "Gab1",
+	 "ename" : "Gab1",
+	 "mods" : [ ],
+	 "loc" : "CLc"
+},
+
+ "Gab2-Yphos@EgfRC":{"stype" : "socc",
+	 "name" : "Gab2-Yphos@EgfRC",
+	 "shortname" : "Gab2-Yphos",
+	 "ename" : "Gab2",
+	 "mods" : [ "Yphos" ],
+	 "loc" : "EgfRC"
+},
+
+ "Gab2@CLc":{"stype" : "socc",
+	 "name" : "Gab2@CLc",
+	 "shortname" : "Gab2",
+	 "ename" : "Gab2",
+	 "mods" : [ ],
+	 "loc" : "CLc"
+},
+
+ "Gnai1@CLi":{"stype" : "socc",
+	 "name" : "Gnai1@CLi",
+	 "shortname" : "Gnai1",
+	 "ename" : "Gnai1",
+	 "mods" : [ ],
+	 "loc" : "CLi"
+},
+
+ "Gnai1@EgfRC":{"stype" : "socc",
+	 "name" : "Gnai1@EgfRC",
+	 "shortname" : "Gnai1",
+	 "ename" : "Gnai1",
+	 "mods" : [ ],
+	 "loc" : "EgfRC"
+},
+
+ "Gnai3@CLi":{"stype" : "socc",
+	 "name" : "Gnai3@CLi",
+	 "shortname" : "Gnai3",
+	 "ename" : "Gnai3",
+	 "mods" : [ ],
+	 "loc" : "CLi"
+},
+
+ "Gnai3@EgfRC":{"stype" : "socc",
+	 "name" : "Gnai3@EgfRC",
+	 "shortname" : "Gnai3",
+	 "ename" : "Gnai3",
+	 "mods" : [ ],
+	 "loc" : "EgfRC"
+},
+
+ "Grb2@CLc":{"stype" : "socc",
+	 "name" : "Grb2@CLc",
+	 "shortname" : "Grb2",
+	 "ename" : "Grb2",
+	 "mods" : [ ],
+	 "loc" : "CLc"
+},
+
+ "Grb2@EgfRC":{"stype" : "socc",
+	 "name" : "Grb2@EgfRC",
+	 "shortname" : "Grb2",
+	 "ename" : "Grb2",
+	 "mods" : [ ],
+	 "loc" : "EgfRC"
+},
+
+ "Hras-GDP@CLi":{"stype" : "socc",
+	 "name" : "Hras-GDP@CLi",
+	 "shortname" : "Hras-GDP",
+	 "ename" : "Hras",
+	 "mods" : [ "GDP" ],
+	 "loc" : "CLi"
+},
+
+ "Hras-GTP@CLi":{"stype" : "socc",
+	 "name" : "Hras-GTP@CLi",
+	 "shortname" : "Hras-GTP",
+	 "ename" : "Hras",
+	 "mods" : [ "GTP" ],
+	 "loc" : "CLi"
+},
+
+ "Pi3k@CLc":{"stype" : "socc",
+	 "name" : "Pi3k@CLc",
+	 "shortname" : "Pi3k",
+	 "ename" : "Pi3k",
+	 "mods" : [ ],
+	 "loc" : "CLc"
+},
+
+ "Pi3k@EgfRC":{"stype" : "socc",
+	 "name" : "Pi3k@EgfRC",
+	 "shortname" : "Pi3k",
+	 "ename" : "Pi3k",
+	 "mods" : [ ],
+	 "loc" : "EgfRC"
+},
+
+ "RasGrp3-Yphos@EgfRC":{"stype" : "socc",
+	 "name" : "RasGrp3-Yphos@EgfRC",
+	 "shortname" : "RasGrp3-Yphos",
+	 "ename" : "RasGrp3",
+	 "mods" : [ "Yphos" ],
+	 "loc" : "EgfRC"
+},
+
+ "RasGrp3@CLc":{"stype" : "socc",
+	 "name" : "RasGrp3@CLc",
+	 "shortname" : "RasGrp3",
+	 "ename" : "RasGrp3",
+	 "mods" : [ ],
+	 "loc" : "CLc"
+},
+
+ "Shp2-Yphos@EgfRC":{"stype" : "socc",
+	 "name" : "Shp2-Yphos@EgfRC",
+	 "shortname" : "Shp2-Yphos",
+	 "ename" : "Shp2",
+	 "mods" : [ "Yphos" ],
+	 "loc" : "EgfRC"
+},
+
+ "Shp2@CLc":{"stype" : "socc",
+	 "name" : "Shp2@CLc",
+	 "shortname" : "Shp2",
+	 "ename" : "Shp2",
+	 "mods" : [ ],
+	 "loc" : "CLc"
+},
+
+ "Sos1-Yphos@EgfRC":{"stype" : "socc",
+	 "name" : "Sos1-Yphos@EgfRC",
+	 "shortname" : "Sos1-Yphos",
+	 "ename" : "Sos1",
+	 "mods" : [ "Yphos" ],
+	 "loc" : "EgfRC"
+},
+
+ "Sos1@CLc":{"stype" : "socc",
+	 "name" : "Sos1@CLc",
+	 "shortname" : "Sos1",
+	 "ename" : "Sos1",
+	 "mods" : [ ],
+	 "loc" : "CLc"
+},
+
+ "Src-act@EgfRC":{"stype" : "socc",
+	 "name" : "Src-act@EgfRC",
+	 "shortname" : "Src-act",
+	 "ename" : "Src",
+	 "mods" : [ "act" ],
+	 "loc" : "EgfRC"
+},
+
+ "Src@CLi":{"stype" : "socc",
+	 "name" : "Src@CLi",
+	 "shortname" : "Src",
+	 "ename" : "Src",
+	 "mods" : [ ],
+	 "loc" : "CLi"
+} } 
